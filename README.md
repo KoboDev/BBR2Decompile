@@ -43,20 +43,20 @@ Using the Installer Executable from archive.org (Or at least before it was hacke
 Actually reveals that the network is not necessary, especially when the high score uploading system, does not even remotely work. (Inside of wine, that it didn't throw an error even in debug.)
 
 The rest are basic necessaries for applications on windows.
-#0 Can be ignored if its only looking for php
-#1 Can be replaced with something like libargus
-#2 Can be replaced with OpenGL
-#3 Can be replaced with default Linux Windows Controls api
-#4 Unk
-#5 Can be ignored or replaced
-#6 Can be replaced with default system audio or an equivilant 32bit audio compressed like WavPack
-#7 Will be replaced with Linux Default
-#8 Can be replaced with OpenGL
-#9 Can be Ignored as web pages cannot open
-#10 Unk
-#11 Linux Default
-#12 Can be ignored as an app shouldn't be acessing network if it doesn't work.
-#13 Can be ignored as an app shouldn't be retrieving network config if it doesn't work.
+- #0 Can be ignored if its only looking for php
+- #1 Can be replaced with something like libargus
+- #2 Can be replaced with OpenGL
+- #3 Can be replaced with default Linux Windows Controls api
+- #4 Unk
+- #5 Can be ignored or replaced
+- #6 Can be replaced with default system audio or an equivilant 32bit audio compressed like WavPack
+- #7 Will be replaced with Linux Default
+- #8 Can be replaced with OpenGL
+- #9 Can be Ignored as web pages cannot open
+- #10 Unk
+- #11 Linux Default
+- #12 Can be ignored as an app shouldn't be acessing network if it doesn't work.
+- #13 Can be ignored as an app shouldn't be retrieving network config if it doesn't work.
 
 # To DO
 Obviously we need to start further disassemble the code or translate into an language that can be read before swapping out and in: imports and structs.
