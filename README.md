@@ -1,4 +1,4 @@
-# BBR2Decompile
+ # BBR2Decompile
 Heavily WIP Decompilation of Blasterball Revolution 2.
 
 # So Far
@@ -57,6 +57,11 @@ The rest are basic necessaries for applications on windows.
 - #11 Linux Default
 - #12 Can be ignored as an app shouldn't be acessing network if it doesn't work.
 - #13 Can be ignored as an app shouldn't be retrieving network config if it doesn't work.
+# ASM86 to C converter?
+Look I looked everywhere for an process to help and then got led on an wild goose chase.
+Some people are selling Software that translates ASM86 to C software, but Ive seen their websites.
+They dont give the prices for their liscences.
+Like Relogix or mpsinc.com
 
 # To DO
 Obviously we need to start further disassemble the code or translate into an language that can be read before swapping out and in: imports and structs.
